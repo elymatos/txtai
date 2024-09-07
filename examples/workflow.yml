@@ -1,0 +1,14 @@
+
+sequences:
+  path: google/flan-t5-large
+  torch_dtype: torch.bfloat16
+
+workflow:
+  chain:
+    tasks:
+      - task: template
+        template: Translate '{statement}' to {language} if it's English
+        action: sequences
+      - task: template
+        template: What language is the following text? {text}
+        action: sequences

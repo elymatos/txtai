@@ -1,0 +1,22 @@
+
+# Embeddings instance
+writable: true
+embeddings:
+  path: sentence-transformers/nli-mpnet-base-v2
+  content: true
+  functions:
+    - {name: translation, argcount: 2, function: translation}
+
+# Translation pipeline
+translation:
+
+# Workflow definitions
+workflow:
+  search:
+    tasks:
+      - search
+      - action: translation
+        args:
+          target: fr
+        task: template
+        template: "{text}"
