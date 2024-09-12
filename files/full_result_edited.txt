@@ -1,0 +1,2781 @@
+
+
+15,PER,Tiedman
+
+
+49,PER,Senhor Deus Todo - Poderoso
+
+
+
+
+
+
+75,LOC,Paris
+77,PER,Voss
+
+79,LOC,Rue des Martyrs
+
+99,PER,Home
+100,LOC,Tiedman
+100,LOC,Tailleur
+113,LOC,Paris
+114,PER,Gassier
+114,PER,Gassier
+114,LOC,Paris
+
+117,LOC,Lyon
+118,PER,Rey
+118,PER,Quai Castellane
+119,LOC,Paris
+132,LOC,Paris
+133,PER,Francisco Antônio Pereira Rocha
+134,LOC,Paris
+137,PER,Didier
+145,LOC,Brasil
+165,LOC,Saül
+166,PER,Bonnier
+166,PER,Saül
+
+
+169,PER,Crezel
+
+170,PER,Luís
+
+
+
+177,PER,Luís
+
+
+198,PER,Deus Todo
+198,LOC,Terra
+
+
+
+211,PER,Georges
+212,PER,Lescot
+
+
+230,PER,Deus Todo
+
+230,PER,Ver
+
+
+239,PER,Thiry
+253,LOC,Avenue de Ségur
+
+302,LOC,Paris
+303,PER,Hanin Leblanc
+303,LOC,Périgueux
+305,LOC,Terra
+305,LOC,Céu
+307,PER,Godu
+311,PER,Godu
+311,LOC,Paris
+312,LOC,Ora
+
+328,LOC,Paris
+329,PER,Sabò
+336,LOC,Bordeaux
+
+354,PER,Varey
+354,LOC,Boulogne
+356,PER,Varey
+356,LOC,Paris
+361,LOC,Paris
+374,LOC,Paris
+375,PER,Louis Jourdan
+376,PER,Mansor
+376,LOC,rua Saint Ferdinand
+377,LOC,Ternes
+377,LOC,Paris
+384,LOC,Fora da Igreja
+
+
+403,PER,Hypolite Léon Denizard Rivail
+403,LOC,Lyon
+411,LOC,Paris
+421,LOC,Paris
+422,PER,Senhora Ebert
+423,PER,Ebert
+
+
+
+437,LOC,Paris
+438,PER,Vincent
+438,LOC,Sonnac
+439,PER,Hillaire
+441,PER,Hillaire
+445,PER,Chaigneau
+445,LOC,Saint - Jean - d ’ Angely
+
+458,LOC,Paris
+460,PER,Chaigneau
+463,LOC,Saint - Jean - d ’ Angely
+
+
+481,PER,Senhor Cordurié
+484,LOC,Paris
+489,PER,Antoine Demeure
+
+516,PER,Rousart
+
+521,LOC,Teatro Francês
+521,LOC,Odéon
+
+
+524,LOC,Paris
+545,LOC,Paris
+546,PER,Rec
+
+574,LOC,Senhora
+574,PER,Lair
+575,LOC,Paris
+576,LOC,Paris
+
+582,PER,Lair
+582,LOC,Tours
+
+
+596,PER,Augustin Babin
+597,LOC,Paris
+
+610,LOC,Paris
+
+
+616,LOC,Lichtenthal
+
+617,LOC,Paris
+
+620,LOC,Passagem Sainte - Anne
+636,PER,Senhor R
+637,LOC,Bermoy
+638,LOC,Tables Claudiamus
+638,LOC,Lyon
+
+640,LOC,Paris
+642,PER,Rec
+650,PER,Senhora Bouillant
+651,LOC,Paris
+652,PER,Rec
+652,PER,Morin
+653,PER,Morin
+661,PER,Bouillant
+
+676,LOC,Paris
+
+677,LOC,Paris
+679,PER,Rec
+686,LOC,Paris
+687,PER,Senhor Houat
+688,LOC,Pau
+689,PER,Caro do
+690,LOC,Paris
+690,LOC,Pau
+692,LOC,Rouen
+692,LOC,Pau
+
+704,LOC,Labastide St
+705,LOC,Lavaur
+705,LOC,Tarn
+707,PER,Georges
+
+
+721,PER,Georges
+742,LOC,Paris
+743,PER,Rec
+
+745,PER,Cristo
+
+747,PER,Jesus
+747,LOC,Templo
+
+
+755,PER,Foulon
+755,LOC,Havre
+755,LOC,Paris
+757,PER,Tailleur
+757,LOC,rua Basfroid
+757,LOC,Santo Antônio
+757,LOC,Paris
+
+760,PER,Rousset
+
+789,LOC,Paris
+790,PER,Villeneuve
+790,LOC,Bordeaux
+793,LOC,Bordeaux
+793,PER,Villeneuve
+795,LOC,Bordeaux
+798,PER,Que
+811,LOC,Paris
+812,PER,Jourdan
+
+820,LOC,Argel
+823,LOC,Argel
+824,PER,Queira
+837,PER,Senhor Dumas
+838,LOC,Paris
+839,PER,Dumas
+839,PER,Grelez
+841,PER,Grelez
+842,PER,Grelez
+844,PER,Sétif
+847,LOC,Sétif
+847,LOC,Paris
+852,LOC,Argel
+853,LOC,Argel
+854,LOC,França
+
+894,LOC,Paris
+895,PER,Dalmazzo
+896,PER,Receb
+898,LOC,Turim
+
+915,PER,Senhor Matrat
+917,PER,Recebi
+
+926,PER,Dijoud
+926,LOC,Lyon
+927,LOC,Paris
+928,PER,Dijoud
+928,PER,Rec
+
+
+944,PER,Boudou
+944,LOC,Toulouse
+947,PER,Nosso Senhor
+
+
+951,LOC,Toulouse
+952,PER,Receba
+
+965,LOC,Paris
+966,LOC,Senhora Forge
+966,LOC,Nantes
+
+970,LOC,Nantes
+
+977,PER,senhor
+
+998,LOC,Paris
+999,PER,Plenet
+999,LOC,Milão
+1000,PER,Recebi
+1001,LOC,Turim
+1002,LOC,Milão
+1007,PER,Henri Dalmazzo
+1007,LOC,rua San Domenico
+1008,PER,Rosalès
+1008,LOC,Milão
+
+1027,LOC,Paris
+1028,PER,Sabò
+1034,PER,Barbaut de la Motte
+1035,LOC,Bordeaux
+1036,LOC,Bordeaux
+
+1050,LOC,Paris
+1051,PER,Edoux
+1051,PER,Barrican
+1055,PER,Barricand
+1057,LOC,Lyon
+1058,PER,Villon
+1059,PER,Barricand
+
+1077,PER,Foulon
+
+
+1080,PER,Cordier
+1082,PER,Hypolite
+
+1086,PER,Hippolite
+1103,PER,Ganipel
+1103,LOC,Paris
+1104,PER,Prouhet
+1107,PER,Prouhet
+1111,PER,Prouhet
+1112,LOC,Libourne
+1113,PER,Prouhet
+
+1135,LOC,Paris
+1136,PER,Rec
+1138,LOC,Bordeaux
+1143,LOC,Terra
+
+1159,LOC,Paris
+1160,PER,Rousset
+1160,LOC,Lyon
+1161,PER,Guillou
+1161,PER,Roffin
+1161,PER,Rousset
+1165,PER,Rofin
+1168,PER,Henrique V
+1168,LOC,França
+1170,PER,Guillou
+1171,PER,Prêle
+
+1194,LOC,Paris
+1196,LOC,Lyon
+
+
+1217,LOC,Paris
+1218,LOC,Maraus
+
+
+
+
+
+
+1226,LOC,Lyon
+1226,LOC,Bordeaux
+1227,LOC,Mundo
+
+
+1229,PER,Marennes
+1230,PER,Florentin
+1233,PER,Maraus
+1234,PER,Senhor Mitchell
+1240,PER,Henri
+1241,PER,Ele
+
+1244,PER,Henri
+
+
+1250,LOC,Terra
+
+
+
+1254,PER,Alfred Michell
+1276,LOC,Desliens
+1279,LOC,Terra
+1287,PER,Obs
+1287,PER,Locke
+1287,PER,Helvétius
+1287,PER,Rousseau
+1295,PER,Montaigne
+1296,LOC,Desliens
+1319,LOC,Paris
+1321,PER,Caussin
+1340,PER,Mestre
+1341,PER,Madame Leymarie
+1342,PER,Jane
+1342,PER,Leymarie
+
+1344,LOC,Sociedade
+
+
+
+1346,LOC,Leymarie
+1358,LOC,Paris
+1359,LOC,Desliens
+1363,LOC,Passage Sainte - Anne
+1370,PER,Didier
+1371,LOC,Loja
+1398,LOC,Paris
+
+1401,PER,Didier
+
+
+1413,LOC,Lamennais
+
+
+
+
+
+
+
+1652,PER,Amélie
+1652,PER,Musset
+1652,PER,Jules
+1654,LOC,Paris
+1654,LOC,G
+
+1654,PER,Jules
+1654,PER,Musset
+
+1658,PER,Adeus
+1673,LOC,Carimbos
+1674,LOC,Senhora Senhora
+1674,PER,Riva
+
+1674,PER,Boudet
+1674,LOC,Château du Loir
+1674,LOC,Aix - la - Chapelle
+1675,PER,Amélie
+
+1690,LOC,Paris
+1691,PER,Allègre
+1695,LOC,Paris
+1696,LOC,Château du Loir
+1699,PER,Louise
+
+1711,PER,Amélie
+1711,PER,Louise
+1747,PER,Senhora Rivail
+1747,PER,Boudet
+1747,LOC,Château du Loir Sarthe
+1747,LOC,Paris
+1747,LOC,Car
+1747,LOC,Château du Loir
+1747,LOC,Paris
+1748,PER,Amélie
+1750,PER,Biscarel
+1753,LOC,Mérine
+1754,PER,Dutrou
+1755,PER,Madame Honeix
+1756,LOC,Charrone
+1756,LOC,Champs Elysées
+1758,LOC,Mallot
+1760,PER,Joubert
+1760,LOC,Charonne
+1760,LOC,Saint - Ouen
+1760,PER,Jibuy
+1762,PER,Ouradou
+1765,PER,Joubert
+1770,PER,Joubert
+1771,PER,Chalumet
+1771,PER,Joubert
+1774,PER,Julienne
+
+1780,PER,Louise
+1782,PER,Louise
+1784,PER,Amélie
+1831,LOC,Senhora
+1831,PER,Rivail
+1831,PER,Boudet
+1831,LOC,Château du Loir Sarthe
+1831,LOC,Paris
+1832,PER,Amélie
+1836,PER,Senhora Dutrau
+1838,PER,Estelle Michaux
+1839,PER,Lepage
+1845,LOC,Dal
+
+1846,PER,Darbonnens
+1849,PER,Amélie
+1849,PER,Louise
+
+1875,PER,Amélie
+1883,PER,Verei
+
+1892,LOC,Espanha
+1893,PER,Fiquei
+1894,PER,Louise
+1896,PER,Louise
+1897,PER,Madame Destriché
+1897,LOC,Estrangeiro
+1900,PER,Madame Marc Brette
+1901,PER,Madame Musset
+1903,LOC,Cottonbruit
+
+
+
+
+1967,LOC,Ségur
+1968,LOC,Cazemajour
+1969,PER,Pezzani Hillaire
+1969,PER,Bouillant
+1970,PER,Pezzani
+1970,LOC,Paris
+1974,PER,É Hillaire
+1975,PER,Pezzani
+1975,PER,Bouillant
+1975,LOC,Lyon
+1976,PER,Sim
+1996,LOC,Paris
+
+
+1998,LOC,Suíça
+1998,LOC,Zimmerwald
+2000,LOC,Paris
+
+
+2015,PER,Coragem
+2016,PER,abad
+2016,PER,Barricand
+2017,PER,Adeus
+2017,PER,Sanson
+2041,LOC,Paris
+2043,PER,Auget Chédaux
+
+
+
+2062,PER,Jamais
+2086,LOC,Paris
+2087,PER,Morin
+
+2090,LOC,rua Sainte - Anne
+2090,PER,Morin
+
+2091,PER,Ambel
+2091,PER,Morin
+
+2107,PER,Kardec
+2108,PER,Dozon
+2112,PER,Ambel
+2113,PER,Seu eu
+
+2133,PER,Ambel
+2133,PER,Canu
+
+2133,PER,Ambel
+2133,PER,Canu
+
+2133,PER,Ambel
+2135,LOC,Nature
+
+2139,PER,Ambel
+2141,PER,D ’ Ambel
+
+2143,PER,Ambel
+2146,PER,Pezzani
+2146,LOC,Lyon
+2147,PER,Pezzani
+
+2150,PER,Ambel
+2159,LOC,co
+
+
+
+2186,PER,dem
+
+2194,PER,Morin
+
+2195,PER,Tailleur
+2196,PER,Senhor Morin
+2196,PER,Sim
+2196,PER,Tailleur
+2336,LOC,S
+
+2338,LOC,Tailleur
+2339,PER,Morin
+2340,PER,Foulon
+2340,PER,Morin
+2340,PER,Gent
+2346,LOC,Terra
+2349,PER,Ouça
+
+2354,LOC,Ségur
+2363,LOC,rua Sainte - Anne
+2366,LOC,al
+
+
+2368,LOC,Ségur
+2369,LOC,Ségur
+2370,LOC,Ségur
+2370,PER,Pel
+2370,PER,Demeure
+
+2372,LOC,Ambel
+2372,LOC,Pe
+
+2373,LOC,Amb
+
+2373,PER,Pezzani
+2375,PER,Pezzani
+2380,PER,Senhor Tombarel
+2381,PER,Foulon
+2382,PER,Foulon
+
+2386,PER,Tombarel
+2386,LOC,Rio de Janeiro
+2387,PER,Tombarel
+2387,LOC,Havre
+2388,PER,Sim
+2389,PER,Morin
+2390,PER,Morin
+2390,PER,Tailleur
+2391,LOC,Terra
+2395,LOC,rua Sainte - Anne
+2395,LOC,Ségur
+2504,LOC,Carimbo
+2506,LOC,Sus
+2507,LOC,Ce
+2508,LOC,Paris
+2508,LOC,rue de Lille
+2508,PER,Monvoisin
+
+2508,PER,Joana d ’ Arc
+2508,PER,Joana d ’ Arc
+2509,LOC,Paris
+2511,LOC,Paris
+
+2514,LOC,Paris
+2517,LOC,Im
+2533,PER,Senhor Rivail
+2534,LOC,Carimbo
+2535,LOC,Carimbo
+2536,PER,Amélie Boudet
+2536,LOC,Boudet
+2536,LOC,Château du Loir
+2536,LOC,Sarthe
+2537,PER,Musset
+2537,PER,Boisset
+2539,PER,senhorita
+2542,PER,Musset
+2544,PER,Hypolite Léon
+2544,PER,Denizard
+2544,PER,Rivail
+2544,LOC,Lyon
+2544,PER,Jean
+2544,PER,Baptiste - Antoine Rivail
+2544,PER,Jeane
+2544,PER,Louise Duhamel
+2546,PER,Seu
+
+2548,LOC,Inst
+2549,LOC,Paris
+
+
+2568,PER,Amélie Boudet
+2568,PER,Bou
+2568,LOC,Château - du - Loir
+2570,PER,Musset
+2571,PER,Musset
+2609,PER,Senhor Rivail
+2610,LOC,Carimbo
+2611,PER,Amélie Boudet
+2611,PER,Boudet
+2611,LOC,Chateau - du - Loir
+2611,LOC,Paris
+2611,PER,Recebi
+2614,PER,Musset
+2620,PER,Senhora Rivail
+2640,PER,Carimbo
+2640,LOC,Lyon
+2642,LOC,Carimbo
+2643,LOC,Senhora
+2643,PER,Riva
+
+2643,LOC,Rua de Sèvres
+2643,LOC,Paris
+2643,LOC,Lyon
+2644,PER,Amélie
+2645,LOC,Paris
+2647,LOC,Aix
+2648,LOC,Lyon
+2650,LOC,Paris
+2651,PER,Rigolet
+2657,LOC,Palais Royal
+2657,LOC,rua du Plat
+2657,LOC,Bellecour
+2679,LOC,Car
+2679,LOC,Lyon
+2680,LOC,Château - du - Loire
+2682,PER,Senhora Rivail
+2682,PER,Boudet
+2682,PER,Boudet
+2682,LOC,Château - du - Loire
+2682,LOC,Lyon
+2683,PER,Amélie
+2684,LOC,Lyon
+2685,LOC,Aix en Savoie
+2687,PER,Brunel
+2687,LOC,Lyon
+2688,PER,Musset
+2689,PER,Brunel
+2690,PER,senhor
+2690,PER,Rigolet
+2690,PER,senhor
+2690,PER,Rigolet
+2691,PER,Motteveaux
+2692,PER,Motteveaux
+2692,PER,Desjardins
+2693,LOC,Aix
+2694,LOC,Haut Bonhomme
+2695,LOC,Aix
+2696,PER,Rigolet
+2696,LOC,rue Saint - Côme
+2697,PER,Amélie
+2729,LOC,Carimbo
+2731,LOC,Carimbo
+2732,LOC,Rivail
+
+2732,LOC,Senhora
+2732,PER,Riva
+
+2732,LOC,Rua de Sèvres
+2732,LOC,Paris Bourg
+2733,PER,Amélie
+2733,LOC,Bourg
+2733,LOC,Lyon
+2733,LOC,Paris
+2733,PER,Lafitte
+2734,LOC,Paris
+2737,LOC,Bourg
+2740,LOC,Paris
+2741,PER,Adeus
+2759,LOC,Carimbos
+
+2760,PER,Riva
+2760,PER,Senhora Riva
+2760,LOC,Lycée Polymatique Rue de Sèvres
+2760,LOC,Paris
+2760,LOC,Londres
+2761,PER,Amélie
+2766,LOC,Inglaterra
+2767,LOC,Paris
+2767,LOC,Louis - le - Grand
+2770,LOC,Paris
+2774,LOC,Londres
+2778,LOC,Londres
+2783,PER,Miller
+2783,PER,Givaldan
+2791,LOC,Vis
+
+2791,LOC,Westminster
+2797,LOC,Londres
+2799,LOC,Tâmisa
+2799,LOC,Londres
+
+
+
+2854,LOC,Carimbo
+2854,LOC,Lyon
+2855,LOC,Rivail
+2855,LOC,Senhora Senhora Rivail
+2855,LOC,Rua Tiquetonne
+2855,LOC,Paris
+2856,PER,Amélie
+2857,PER,Mathevot
+2857,PER,Girardin
+2858,PER,Mathevot
+2860,LOC,enter
+2862,PER,Favre - Gilly
+2862,PER,Mathevot
+2862,PER,Mathevot
+2863,PER,Girardin
+2863,LOC,Lyon
+
+2866,PER,Quinton
+2868,PER,Girardin
+2869,PER,Laborie
+2869,PER,Girardin
+2871,PER,Laborie
+2871,PER,Girardin
+2872,PER,Girardin
+2873,PER,Quinton
+2873,PER,Girardin
+2873,PER,Mathevot
+2874,PER,Laborie
+2888,PER,Girardin
+2892,PER,Amélie
+
+2951,LOC,Carim
+2951,LOC,Paris
+2952,LOC,Château du Loir
+2953,LOC,Senhora Senhora Rivail
+2953,PER,Boudet
+2953,LOC,Château du Loir Sarthe
+2954,PER,Amélie
+2960,PER,Mariette
+2960,PER,Louise
+2963,PER,Amélie
+
+2982,LOC,Valenciennes
+2982,LOC,Paris
+2982,PER,Senhor Rivail
+2982,PER,Senhora Senhora Riva
+
+2982,LOC,Rue Tiquetonne
+2982,LOC,Paris
+2983,LOC,Quiévrain
+2984,LOC,Aix - la - Chapelle
+2985,PER,Adeus
+2995,LOC,Aachen
+2996,LOC,Carimbo
+2997,LOC,Senhora Senhora Riva
+2997,LOC,Rua Tiquetonne
+2997,LOC,Paris
+2998,LOC,Aix - la - Chapelle
+2999,PER,Amélie
+2999,LOC,Aix - la - Chapelle
+3001,LOC,Quiévrain
+3001,LOC,rua
+3001,LOC,Montmartre
+3002,LOC,Bruxelas
+3006,LOC,Aix - la - Chapelle
+3006,LOC,Grão - Ducado de Bas Rhin
+3007,LOC,Paris
+3007,LOC,Château - du - Loir
+3008,LOC,Bruxelas
+3008,LOC,Aix
+3008,LOC,Bélgica
+3009,PER,Félicité
+
+3012,PER,Amélie
+3012,PER,Louise
+3014,PER,Mariette
+3016,PER,Mariette
+3017,PER,Allègre
+3018,PER,Chambertin
+3018,PER,Bleu
+3019,PER,Amélie
+3045,LOC,Carimbo
+3045,LOC,Senhor Rivail
+3045,LOC,Senhora Senhora Rivail
+3045,PER,Boudet
+3046,LOC,Chateau - du - Loir
+3046,LOC,Paris
+3047,PER,Amélie
+3048,LOC,rio Loire
+
+3053,LOC,Joyeux
+3060,PER,Grimaldi
+3062,PER,Demonval
+3065,PER,Demonval
+3067,LOC,Alemanha
+3069,PER,Louise
+3070,PER,Félicité
+3071,PER,Amélie
+3072,LOC,Croze
+3072,PER,Martin
+3072,PER,Musset
+3073,PER,Felicité
+3075,PER,Pitolet
+3075,PER,Moullins
+3076,PER,Henri
+3077,PER,Cassins
+3123,PER,Senhora Rivail
+3123,LOC,Senhora
+3123,PER,Senhora Amélie Boudet
+3123,PER,Boudet
+3123,LOC,Château - du - Loir Sarthe
+3123,PER,Amélie
+3126,PER,Bricarel
+3129,LOC,Pietri
+3129,LOC,Maranale
+3130,PER,Bricarel
+3133,LOC,teatro
+3134,LOC,Monval
+3134,LOC,Londres
+3136,PER,Charlet
+3137,PER,Charlet
+3139,PER,Musset
+3140,PER,Martin
+3140,LOC,Croze
+3143,PER,Félicité
+3146,PER,Amélie
+
+3148,PER,Louise
+3149,LOC,Paris
+3184,LOC,Château - du - Loir
+3184,PER,Senhora Senhora Rivail
+3184,PER,Boudet
+3184,LOC,Château - du - Loir
+3184,LOC,Sarthe
+3185,PER,Amélie
+3186,PER,Bricarel
+3187,LOC,Orléans
+3187,LOC,Orléans
+3187,LOC,Tours
+3188,PER,Bricarel
+3195,PER,Félicité
+3198,PER,Louise
+3219,LOC,Lyon
+3220,PER,Amélie
+3223,PER,Erasto
+3225,LOC,Mâcon
+3229,LOC,Lyon
+3232,LOC,Vaise
+3238,PER,Rigolet
+3239,LOC,Paris
+
+3266,PER,Amélie
+3266,LOC,Lyon
+3273,LOC,Paris
+
+3277,PER,Castellane
+3280,LOC,Avignon
+3280,LOC,Sète
+3280,LOC,Toulouse
+3280,LOC,Bordeaux
+3281,LOC,Lyon
+
+3283,LOC,Lyon
+3284,PER,Sabò
+3284,LOC,Bordeaux
+3285,LOC,avenida
+3285,LOC,Ségur
+3286,PER,Villon
+
+3314,LOC,Nîmes
+3315,PER,Amélie
+3315,LOC,Lyon
+3317,LOC,Lyon
+3319,LOC,Nîmes
+3320,LOC,Sète
+3321,LOC,Toulouse
+3322,LOC,Marmande
+3322,LOC,Bordeaux
+3325,LOC,Lyon
+3325,LOC,Paris
+3325,PER,Conard
+3327,LOC,Bordeaux
+3327,LOC,Angoulême
+3327,LOC,Saint - Jean - d ’ Angély
+3328,LOC,Bordeaux
+3331,LOC,Sèvres
+3331,LOC,Breteuil
+3334,PER,DeylandeDerlande
+3336,LOC,Bordeaux
+3337,PER,Amélie
+3368,LOC,Sète
+3369,PER,Amélie
+3369,LOC,Sète
+3371,LOC,Sète
+3374,LOC,Montpellier
+3374,LOC,Sète
+3376,LOC,Toulouse
+3377,LOC,Toulouse
+3380,LOC,Marmande
+3382,LOC,Toulouse
+3383,LOC,Montpellier
+3383,LOC,Sète
+3384,LOC,Nîmes
+3386,LOC,Roma
+3387,PER,Aujanneau
+3387,PER,Rey de Lyon
+3390,LOC,Abra
+3391,LOC,Lyon
+3391,PER,Villon
+3418,LOC,Marmande
+3419,LOC,Domingo
+3420,PER,Amélie
+3420,PER,Dombre
+3421,PER,Rec
+3422,LOC,Espanha
+3422,LOC,Andaluzia
+3426,LOC,Toulouse
+3426,PER,Jean de Sainte - Gemme
+3427,LOC,Cazeneuve
+3427,LOC,Albi
+3427,LOC,Bordeaux
+
+3437,PER,Pai
+3440,LOC,Bordeaux
+3441,PER,Sabò
+3441,PER,Cazemajaux
+3441,PER,Dombre
+3443,LOC,Marenne
+3443,LOC,Charente Inferior
+3443,PER,Florentin Blanchard
+3443,LOC,Bordeaux
+3445,PER,Sabò
+3447,PER,Amélie
+
+3449,PER,Adeus
+3449,PER,Amélie
+
+3497,LOC,Bordeaux
+3498,PER,Amélie
+3498,LOC,Bordeaux
+3500,LOC,Ségur
+3501,LOC,Bordeaux
+3503,LOC,Marennes
+3504,LOC,Paris
+3504,LOC,Lyon
+3508,PER,Amélie
+
+3509,LOC,Hotel du Commerce Place du Chapelet
+3509,LOC,Bordeaux
+3525,LOC,Bordeaux
+3525,PER,Amélie
+3526,PER,Anne
+3526,LOC,Ségur
+3528,LOC,Bordeaux
+3528,LOC,Bordeaux
+3530,PER,Visconde de Brons
+3531,PER,Collignon
+3531,PER,Gougues
+3532,PER,Collignon
+3534,PER,Roustaing
+3534,PER,Bourdeaux
+3537,LOC,Bayonne
+3545,LOC,Coll
+
+
+
+3548,LOC,Marennes
+3549,LOC,Royan
+3549,LOC,Gironde
+3550,LOC,Marennes
+3551,LOC,Rochefort
+3551,LOC,Saint - Jean - d ’ Angély
+3551,LOC,Angoulême
+3551,LOC,Poitiers
+3551,LOC,Paris
+3552,PER,Barbault de la Mothe
+3552,LOC,Bordeaux
+3552,LOC,Poitiers
+3554,LOC,Poitiers
+3554,LOC,Paris
+3558,LOC,Domingo
+
+3559,PER,Montezuma
+3603,LOC,Marennes
+3604,PER,Amélie
+3606,PER,Blanchard
+3607,LOC,Méchey
+3607,PER,Drouhet
+3608,LOC,Marennes
+3609,LOC,Charente
+3611,PER,Anaïs
+3613,PER,Anaïs
+3614,PER,Anaïs
+3615,LOC,Rochefort
+3615,LOC,Saint - Jean - d ’ Angély
+3615,LOC,Bordeaux
+3618,PER,Adeus
+3618,PER,Amélie
+3619,LOC,Angoulême
+3623,PER,Adeus
+
+3624,LOC,Paris
+3648,LOC,Saint - Jean - d ’ Angély
+3649,LOC,Paris
+
+
+3649,LOC,Angoulême
+3651,LOC,Rochefort
+3651,PER,Fornier Duplan
+3651,PER,Marquês de Moÿ
+3651,LOC,Rochefort
+3651,LOC,Marennes
+3655,LOC,Angoulême
+3656,LOC,Notre Dame
+3657,PER,Adeus
+3657,PER,Amélie
+
+3674,LOC,Sainte - Adresse
+3675,PER,Amélie
+3677,PER,Foulon
+3677,PER,Mambaret
+3678,LOC,Almocei
+3682,PER,Foulon
+3682,PER,Mambaret
+3682,LOC,Argel
+3682,LOC,Ambel
+3683,LOC,Lyon
+3688,LOC,Amb
+
+3688,PER,Erasto
+3688,PER,Verdade
+
+3689,PER,Le Toullie
+3689,LOC,Havre
+3689,PER,Bodier
+3690,PER,Lachâtre
+3691,PER,Amélie
+3691,LOC,Bélgica
+3691,LOC,França
+3693,LOC,Milão
+3693,PER,Dal Verme
+3695,LOC,Ambel
+3695,PER,Dal Verme
+3696,PER,Marquesa de Rosales
+
+
+3696,LOC,Milão
+3697,LOC,Ambel
+3697,PER,Collignon
+3699,PER,Villon
+3699,LOC,Lyon
+3703,PER,Amélie
+3704,LOC,Amb
+
+3704,LOC,Can
+
+3705,PER,Marie
+3706,LOC,Ambel
+3707,LOC,rue de la plage
+3760,LOC,Bruxelas
+3761,PER,Amélie
+3765,LOC,Bruxelas
+3765,LOC,Antuérpia
+3767,LOC,Antuérpia
+3768,LOC,Paris
+3770,PER,Mallet
+3770,PER,Vauchez
+3775,PER,Henry
+3775,PER,Chomette
+3776,PER,Cho
+
+3776,LOC,Moscou
+3777,PER,Amélie
+
+3779,LOC,Mail
+
+3780,LOC,Bruxelas
+3780,PER,Vauchez
+
+3780,LOC,rua de la Montagne
+3780,LOC,Antuérpia
+3780,PER,Florent Gevers
+3781,LOC,Vênus
+3808,PER,Deus Todo
+
+3811,PER,Amélie
+3812,LOC,Locarno
+3812,PER,Espíritos
+
+
+3830,LOC,Carcassonne
+3830,PER,Jaubert
+
+
+3844,PER,Jesus
+
+
+3851,LOC,lago de Genesaré
+
+
+
+
+3875,LOC,Bordeaux
+3877,LOC,Estados Unidos da América
+3882,PER,Senhores
+3886,PER,Jaubert
+3886,LOC,Carcassonne
+3886,PER,Dombre
+3886,LOC,Marmande
+3887,PER,Propon
+3943,LOC,Port Louis
+3943,LOC,Maurício
+3945,PER,John Brown
+3945,LOC,Estados Unidos
+
+3950,LOC,América
+
+
+3964,LOC,América
+
+3966,LOC,Potomac
+3968,LOC,América
+3970,LOC,América
+3970,LOC,Norte
+3970,LOC,Sul
+3972,LOC,Europa
+
+3973,LOC,Inglaterra
+3975,LOC,Norte
+3975,LOC,Inglaterra
+3975,LOC,França
+3975,LOC,Canadá
+3975,LOC,México
+3977,LOC,Américas
+
+3980,PER,Sim
+
+
+3983,LOC,Norte
+3983,LOC,Norte
+3984,LOC,Américas
+3988,PER,Lincoln
+3988,PER,Lincoln
+3996,PER,Georges Brown
+3997,PER,Georges Brown
+3999,LOC,América
+4000,PER,Sim
+4003,LOC,América
+4004,PER,Lincoln
+
+4005,LOC,América do Norte
+4011,LOC,Américas
+4012,LOC,América
+4012,LOC,Canadá
+4012,LOC,México
+4015,LOC,Inglaterra
+4015,LOC,França
+
+
+
+4030,PER,John Brown
+4030,PER,John
+4036,PER,Lincoln
+4036,LOC,Richmond
+4037,LOC,Nova York
+4041,PER,Lee
+4041,LOC,União
+4042,LOC,Sul
+4042,LOC,Norte
+
+
+4047,LOC,América
+4049,LOC,América
+4050,LOC,Inglaterra
+4051,LOC,Inglaterra
+4052,LOC,Igreja de Santiago
+
+4053,LOC,América
+
+4053,LOC,América
+4054,LOC,Nova York
+
+
+4057,LOC,General Lyon
+4059,PER,Lincoln
+4059,PER,Seward
+4062,LOC,Sul
+4062,LOC,Américas
+4063,PER,Lincoln
+
+4066,LOC,América
+4066,LOC,França
+4066,LOC,Inglaterra
+4067,PER,Lincoln
+4067,PER,Seward
+4068,LOC,França
+4068,LOC,Inglaterra
+4068,PER,Lincoln
+4068,LOC,América
+4069,LOC,América
+
+
+4256,LOC,Tail
+
+4257,PER,Tailleur
+4258,PER,Tailleur
+4258,PER,Foulon
+4259,PER,Foulon
+4260,PER,Jenny Tailleur
+4261,PER,Jenny
+4264,LOC,Nenhuma
+4265,PER,Tailleur
+4302,LOC,Ségur
+4303,LOC,Tail
+
+4304,PER,Sabò
+4305,PER,Foulon
+4305,PER,Sabò
+4310,PER,Desliens
+4311,PER,Desliens
+4317,PER,Sabò
+4354,LOC,Sainte - Adresse
+4355,PER,Amélie
+4360,PER,Foulon
+4361,PER,Lombard
+4363,LOC,Bourg
+4364,LOC,Ambel
+4367,LOC,Ambel
+4367,LOC,Coll
+
+4368,PER,Amélie
+4393,PER,Amélie
+4393,LOC,Ambel
+4393,LOC,Canu
+4393,PER,Costeau
+4395,PER,Vézy
+4396,PER,Prévert
+
+4399,PER,Erasto
+4399,LOC,Amb
+
+4399,PER,Judith
+4407,LOC,Notre - Dame - des - Flots
+4411,PER,Bodier
+4414,PER,Amélie
+4415,PER,Costeau
+4445,LOC,Le Havre
+4445,PER,Amélie
+4445,LOC,Havre
+4445,LOC,Sainte - Adresse
+4446,LOC,Paris
+4447,PER,Amélie
+4459,LOC,Senhora Senhora Rivail
+4459,LOC,Rua Tiquetonne
+4459,LOC,Paris
+
+4459,LOC,Lyon
+4460,PER,Amélie
+4464,PER,Girardin
+4466,PER,Quinson
+4466,PER,Girardin
+4466,PER,Laborie
+4466,PER,Girardin
+4466,PER,Laborie
+4467,PER,Quinson
+4468,PER,Girardin
+4469,PER,Mariette
+4471,PER,Girardin
+4475,PER,Girardin
+4478,PER,Girardin
+4479,PER,Mariette
+4482,LOC,Paris
+4483,PER,Pitolet
+4483,PER,Mariette
+4485,LOC,St
+4487,PER,Victor
+4489,PER,Girardin
+4490,PER,Mariette
+4492,LOC,Duhamel
+4492,PER,Quinson
+4493,PER,Rigollet
+4495,LOC,Lyon
+4495,PER,Duc d ’ Aumale
+4495,PER,Regimento
+4495,PER,Linha
+4496,PER,Amélie
+4541,LOC,Domingo
+4542,PER,Amélie
+4544,LOC,Paris
+4544,LOC,Aix
+
+4556,LOC,ferrovia
+4557,PER,Musset
+4558,PER,Henry
+4559,LOC,Félicité
+4560,PER,Pierret
+4561,LOC,Bel
+
+4562,LOC,alugu
+4565,PER,Défaux
+4566,PER,Joseph Pierret
+4568,LOC,Palácio de Cristal
+4572,PER,Louise
+4577,PER,Amélie
+4620,PER,Recebi
+4622,LOC,Lyon
+4623,PER,Martin
+4624,LOC,rua Sainte - Anne
+4624,LOC,rua de Martyrs
+4625,PER,Houdbert
+4625,LOC,Aix
+4626,PER,Martin
+4627,LOC,Paris
+4627,PER,Sollichon
+4627,PER,Gustave
+4627,PER,Luís XVII
+4627,LOC,Paris
+4628,PER,Gustave
+4628,PER,Schmit
+4630,PER,Ledoyen
+4631,PER,Prunier
+4631,LOC,Vichy
+
+4633,PER,Jobard
+4634,PER,Grand Boulogne
+4634,LOC,Neuilly
+4637,PER,Carion
+4639,PER,Schmit
+4639,LOC,rua Méhul
+4642,PER,Dehau
+4643,PER,Gillet de Marseille
+4644,PER,Delacson
+4644,LOC,Dunkerque
+4646,PER,Deglande
+4646,LOC,Ségur
+4648,PER,Amélie
+4650,PER,Brun
+4650,LOC,Niort
+4692,PER,Latési
+4697,PER,Schmit
+4698,PER,Dehau
+4699,PER,Fennebry
+4700,LOC,Paris
+4700,PER,Péprin
+4700,PER,Leon Régnier
+4702,LOC,Frères
+4702,PER,Schmit
+4702,PER,Moreau
+4704,PER,Simond
+4704,LOC,Hostun
+4704,LOC,Drôme
+4706,PER,Adeus
+4708,PER,Amélie
+4710,PER,Dehau
+4710,PER,Alfred de Musset
+4711,PER,Schmit
+4711,PER,Catherine
+4711,PER,Alfred de Musset
+4712,LOC,Avenida de Ségur
+4713,PER,De Latési
+4714,PER,Schmit
+4714,PER,Massy
+4714,PER,Canelle
+4715,PER,Dayen
+4716,LOC,Grenelle
+4718,PER,Canu
+4720,PER,Hypolite
+
+
+4763,LOC,Paris
+4766,PER,Dumas
+4766,LOC,Lyon
+4766,LOC,Ségur
+4769,PER,Courtois
+4771,PER,Deglande
+4772,PER,Anaïs
+4772,PER,Auguste
+4772,LOC,Paris
+4778,PER,Depour
+4780,PER,Adeus
+4783,PER,Villon
+4784,PER,Anaïs
+4808,LOC,Domingo
+4809,PER,Delanne
+4810,LOC,Situação
+4814,LOC,Lyon
+4819,PER,Coragem
+4827,PER,Jobard
+
+4852,PER,Golovine
+
+
+
+4862,LOC,Roma
+4869,PER,Demeure
+
+4871,LOC,Desliens
+
+
+4897,LOC,Paris
+4899,LOC,Au
+
+4901,PER,Bryère de Tours
+
+
+4903,LOC,Tours
+
+4905,PER,Ele
+4905,PER,Talião
+
+4907,PER,Ele
+
+4908,PER,Ele
+
+
+4926,LOC,Paris
+4928,PER,Caussin
+4929,PER,Bryère de Tours
+
+
+
+
+
+4961,PER,Henry
+4964,LOC,Israel
+4964,LOC,Sião
+
+
+
+
+4970,LOC,Céu
+
+
+
+
+
+4978,PER,Via
+4978,LOC,Ars
+
+5002,LOC,Paris
+
+5008,LOC,rua Vaneau
+5012,PER,Ledru
+5013,PER,Canu
+5013,PER,Oger
+5013,LOC,Chauny
+5014,LOC,Coucy - le - Château
+5014,PER,Raoul de Coucy
+5014,LOC,Rússia
+5014,LOC,Nancy
+5015,LOC,Nápoles
+5018,PER,Cassin
+5018,LOC,Paris
+5022,PER,Marie
+5051,LOC,Paris
+5052,LOC,Sens
+5055,LOC,Ségur
+5055,PER,Henry
+5056,PER,Marie
+5061,PER,Indermuhle
+5061,LOC,Bruxelas
+5062,PER,Vauchez
+5062,LOC,Jussienne
+5063,LOC,Oran
+5064,PER,De Lachâtre
+5065,LOC,Belleville
+5066,PER,Joly
+5066,LOC,Lyon
+5068,LOC,Bruxelas
+5069,LOC,Ambel
+5069,LOC,Toulouse
+5071,PER,Martin
+5071,PER,Anaïs
+5072,PER,Henry
+5073,LOC,Belleville
+5073,PER,Henry
+5073,PER,Anaïs
+5073,LOC,Monval
+5074,LOC,Mac
+
+5074,LOC,Moscou
+5074,LOC,Paris
+5075,LOC,Tailleur
+5077,LOC,Lyon
+5078,LOC,Saboia
+5079,PER,Adeus
+5083,LOC,Nevers
+5084,PER,Vezy
+5133,LOC,S
+
+5133,LOC,Cazemajour
+5135,PER,Demeure
+5136,PER,Demeure
+5138,LOC,Terra
+5144,PER,Você
+5151,PER,Didier
+5160,PER,Demeure
+5168,PER,Demeure
+
+5236,PER,Amélie
+5237,LOC,Tours
+5237,LOC,Blois
+5237,LOC,Chambord
+
+5239,LOC,Blois
+5240,LOC,Tours
+5240,LOC,Orléans
+5241,LOC,Orléans
+5241,LOC,Paris
+5242,LOC,Tours
+5246,PER,Virain
+5248,LOC,Dur
+
+5249,PER,Laville
+5256,LOC,Langlois
+5258,PER,Adeus
+5258,PER,Amélie
+
+5266,PER,Raspail
+5267,PER,aloé
+5275,PER,Piran
+5276,LOC,Midi
+5276,LOC,Madeira
+5276,LOC,Espanha
+5278,LOC,Chidel
+5279,PER,Lévi
+5332,LOC,Paris
+5332,PER,Hypolite
+5332,LOC,Ambel
+
+5333,LOC,Amb
+
+5333,PER,Levent
+5333,LOC,Amb
+
+5333,PER,Leymarie
+5333,PER,Vezy
+5333,PER,Flammarion
+5334,PER,Lescot
+5334,PER,Didier
+5335,PER,Levent
+5336,LOC,Ambel
+5337,PER,Kouninskow
+5337,LOC,Nápoles
+5338,PER,Lam
+5339,PER,Tail
+5339,LOC,Ségur
+5339,LOC,Fort
+5341,PER,Maclakoff
+5341,PER,Robyns
+5342,PER,Anaïs
+5344,LOC,Antuérpia
+5345,LOC,Hilis
+5354,PER,Lerouge
+5357,PER,Adeus
+5359,PER,Amélie
+5360,PER,Lussiez
+5360,LOC,Troyes
+5360,PER,Uffoltz
+5361,PER,Lussiez
+5364,PER,Lussiez
+5365,PER,Adeus
+5366,PER,Sabò
+5367,PER,Charlotte
+5367,LOC,Ségur
+5419,LOC,rua Sainte - Anne
+5421,PER,Marie
+5421,LOC,Paris
+5422,PER,Ledoyen
+5423,PER,Barthez
+5423,LOC,Moscou
+5424,PER,Bouralet
+5425,PER,Golovine
+5425,PER,Maclakoff
+5425,LOC,Moscou
+5425,PER,Maclakoff
+5427,PER,Lachâtre
+5427,PER,Amélie Debray
+5428,PER,Maurice
+5428,LOC,Espanha
+5428,LOC,Gênova
+5428,LOC,França
+5428,LOC,Bruxelas
+5429,PER,Eugène Sue
+5430,LOC,Bélgica
+5431,LOC,Espanha
+5431,LOC,Bélgica
+5431,LOC,França
+5432,PER,Colignon
+5433,PER,Dal Verme
+5433,LOC,Ambel
+5434,LOC,Lyon
+5434,LOC,Bordeaux
+5435,PER,Ambel
+5437,PER,Toullie
+5437,LOC,Le Havre
+5438,PER,Ver
+5439,LOC,Londres
+5440,PER,Canu
+5442,LOC,Ambel
+5444,PER,Adeus
+5447,PER,Amélie
+5499,LOC,Paris
+
+5501,LOC,Ségur
+5502,PER,Henry
+5503,PER,Henry
+5503,PER,Mathieu
+5504,PER,Mathieu
+5504,PER,Jules
+5504,PER,Dufaux
+5505,PER,Mathieu
+5505,LOC,Grenelle
+5505,LOC,Va
+
+
+5505,PER,Boissai
+5506,PER,Tailleur
+5509,LOC,México
+5510,PER,Constant
+5510,LOC,Esmirna
+5510,PER,Mabérian
+5510,LOC,Esmirna
+5511,LOC,Nièvre
+5512,LOC,Milão
+5512,PER,Stenet
+5514,LOC,Madri
+5514,LOC,Bordeaux
+5514,PER,Colignon
+5514,PER,Roustaing
+5515,LOC,Colignon
+5515,LOC,Bordeaux
+5515,LOC,Royan
+5516,PER,Mallet
+
+5517,LOC,Ségur
+5518,PER,Adeus
+5520,PER,Amélie
+5521,PER,Brun
+5523,PER,Porrey
+5525,PER,Canu
+5526,PER,Marie
+5527,PER,Vauchez
+5527,PER,Constanti
+5577,LOC,Paris
+5578,LOC,Amb
+
+5579,LOC,Ségur
+5579,LOC,Valler
+5580,PER,Henry
+5583,PER,Henry
+5583,PER,Marie
+5584,PER,Demeure
+5584,LOC,Lyon
+5586,PER,Delglande
+5586,LOC,México
+5588,PER,Delglande
+5588,PER,Efemet
+5588,PER,Thevenot
+5588,PER,Rossey
+5590,PER,Marie
+5591,PER,Ele
+5592,PER,Taigny
+5593,PER,Didier
+5593,LOC,Étrépilly
+5594,PER,Didier
+5597,PER,Didier
+5598,LOC,Bourg
+5600,LOC,Paris
+5600,LOC,Ambel
+5600,PER,Dauban
+5600,PER,Louis Desnoyers
+5601,PER,Desnoyers
+5602,PER,Rodière
+5603,PER,Pathey
+5604,LOC,Saint - Ouen
+5605,LOC,Turim
+5605,PER,Delanne
+5605,PER,Dozon
+5605,LOC,Lamennais
+5607,PER,Delanne
+5608,PER,Delanne
+5610,PER,Cristo
+5610,PER,Virgem
+5612,LOC,Paris
+5614,PER,Daubon
+5614,PER,São Luís
+5615,LOC,Ambel
+5616,PER,Costeau
+5619,PER,vi Tailleur
+5622,LOC,Fort
+5623,PER,Marouzeau
+5623,PER,Vézy
+5624,PER,Percheron
+5626,PER,Canu
+5627,PER,Sardou
+5627,LOC,L ’ Aigle
+5628,PER,Adeus
+5630,LOC,Ségur
+5630,PER,Levent
+5631,PER,Foulon
+5631,PER,TombarelLombard
+5632,LOC,Ambel
+5634,LOC,De
+
+5635,PER,Barboule de la Motte
+5636,PER,Canu
+5637,PER,RulleRil
+5637,LOC,Bordeaux
+5730,LOC,Antuérpia
+5731,PER,Amélie
+5735,PER,Gevers
+5736,PER,Rubens
+5736,PER,Deglande
+5739,PER,Deglande
+5739,LOC,Ségur
+
+5743,LOC,Chegam
+5744,LOC,Antuérpia
+5744,LOC,Paris
+5767,PER,Senhora Senhora Rivail
+5767,PER,Boudet
+5767,LOC,Château du Loir Sarthe
+5767,LOC,Paris
+5768,PER,Amélie
+5769,PER,Musset
+5769,PER,Wallot
+5774,LOC,rua des Martyrs
+5777,LOC,Langlois
+5787,PER,Deglande
+
+5820,PER,Delanne
+
+
+
+5839,PER,Paulo
+5839,PER,Pedro
+5841,PER,Estudai
+5842,LOC,Moki
+5867,LOC,Paris
+5867,PER,Amélie
+5876,PER,Adeus
+5883,LOC,Senhora Senhora Rivail
+5883,PER,Boudet
+5883,LOC,Château du Loir Sarthe
+5884,LOC,Château du Loir
+5889,PER,Pitolet
+5899,PER,Henry
+
+5902,PER,Adeus
+5902,PER,Amélie
+5904,LOC,Paris
+5925,PER,Amélie
+5926,PER,Louise
+5934,PER,Rosalie
+
+5944,PER,Adeus
+5960,LOC,Ségur
+5960,LOC,Paris
+5975,LOC,Port - Royal
+
+5983,PER,Dias
+5990,PER,Cristo
+
+6025,LOC,S
+
+6026,LOC,Lyon
+6027,PER,Sabò
+6027,PER,Gomez Vaëz
+6028,PER,Didier
+6028,LOC,Bordeaux
+6029,LOC,rua Sainte - Anne
+6030,PER,Martin
+6030,LOC,Mâcon
+6030,PER,Delalisse
+6031,PER,Tailleur
+6031,PER,Desvarennes
+6031,PER,Lachâtre
+6032,PER,Deglande
+6037,PER,Sabò
+6037,PER,Sabò
+6038,LOC,Minh
+6039,PER,Hyppolite
+6040,PER,Amélie
+6055,LOC,Paris
+6056,LOC,Lyon
+6056,LOC,Thonon
+6057,LOC,Lyon
+6057,LOC,Lyon
+6058,LOC,Sabóia
+6060,PER,Henry
+6061,PER,Dozon
+6061,PER,Aimonval
+6062,LOC,Ambel
+6062,PER,Cousin
+6062,PER,Delanne
+6063,PER,Marie
+6065,LOC,p
+
+6069,PER,Bigaud
+6072,LOC,Lachâtre
+6072,LOC,Belleville
+6072,PER,Brun
+6073,PER,senhor Dumas
+6074,PER,Santo Agostinho
+6075,PER,Robyns
+6077,PER,Jolibois
+6077,LOC,Albi
+6079,LOC,São Petersburgo
+6079,PER,Apollon Boltin
+6080,LOC,Bessarábia
+6081,LOC,Avenida de Ségur
+
+6085,PER,Anaïs
+6085,PER,Henry
+6085,LOC,Belleville
+6085,PER,Demonval
+6087,LOC,Lyon
+6090,PER,Adeus
+6091,PER,Amélie
+6092,PER,Villon
+6121,LOC,Paris
+
+6133,LOC,Paris
+6137,PER,Robyns
+
+6139,PER,Gillis
+6139,LOC,Antuérpia
+6139,PER,Kouchnisko
+6139,LOC,Nápoles
+6140,PER,Delanne
+6141,PER,Auger Chedaux
+6141,LOC,Arles
+6141,LOC,Marselha
+6143,LOC,Batignolles
+6145,LOC,Bourg
+6147,PER,Porré
+6150,PER,Dehau
+6150,PER,Bar
+
+6150,PER,Deheressem
+6150,LOC,Rouen
+6151,PER,Pierre Boubiers
+6154,LOC,Avenida de Ségur
+6157,PER,Henry
+6157,LOC,Paris
+6158,PER,Delglande
+6159,PER,Brun
+6161,LOC,Havre
+6164,LOC,Amb
+
+6167,PER,Dal Verme
+6167,PER,Lachâtre
+6167,PER,Letoullec
+6168,LOC,corre
+6169,PER,Love
+6169,LOC,Amb
+
+6170,PER,Ribolo
+6170,LOC,Lyon
+6170,PER,Louis de Tourreil
+6171,LOC,Amb
+
+6171,PER,Canu
+6172,PER,Adeus
+6174,PER,Amélie
+6176,LOC,Ségur
+6223,LOC,Paris
+6226,LOC,Havre
+6227,LOC,Ambel
+6227,LOC,Tours
+
+6231,PER,Levent
+6232,LOC,Avenida de Ségur
+6232,PER,Anaïs
+6233,PER,Henry
+6233,PER,Jules Baissé
+
+6236,PER,Herrenschneider
+6237,PER,Marouseau
+6237,PER,Vezy
+6239,PER,Karvinsky
+6239,PER,Demedossir
+6241,PER,Rosalès
+6241,LOC,Lyon
+6241,LOC,Bordeaux
+6241,PER,Karvinsky
+6242,PER,Jourdan
+6242,PER,Michel
+6243,PER,Michel
+6244,PER,Costeau
+
+6247,PER,Prevost
+6248,PER,Mans
+6249,PER,Bielké
+6250,PER,Demoulin
+6252,PER,Robyns
+6253,PER,Adeus
+6255,PER,Amélie
+6256,PER,Brun
+6257,LOC,Tombaret
+6259,LOC,Ambel
+6259,LOC,Canu
+6284,LOC,Paris
+
+
+6286,PER,Jobard
+6287,PER,Pre
+
+
+6298,PER,Jobard
+6299,LOC,São Luís
+
+6302,PER,Jobard
+6305,PER,Jobard
+6306,LOC,São Luís
+
+6310,LOC,São Luís
+
+6318,LOC,São Luís
+6360,PER,irmãos Davenport
+6360,LOC,sala Herz
+6361,PER,Robin
+6362,LOC,sala
+6365,PER,Boudet
+6365,PER,irmãos Davenport
+6366,PER,Henri de Pène
+6366,PER,Clary
+6367,PER,Davenport
+6367,PER,Fay
+6370,PER,irmãos Davenport
+6371,PER,irmãos Davenport
+6372,PER,Duchemin
+6375,PER,Duchemin
+6378,PER,Davenport
+6381,LOC,Rouen
+6381,PER,Davenport
+6384,PER,Robin
+6385,LOC,sala Herz
+6385,PER,Davenport
+6386,PER,Bernard Derosne
+6386,PER,Davenport
+6386,LOC,Paris
+6389,LOC,teatro Robin
+6391,LOC,Teatro Robin
+6392,LOC,Paris
+6392,PER,Davenport
+6392,LOC,Paris
+6392,PER,Robin
+6393,PER,Robin
+6396,PER,Robin
+6397,PER,Robin
+6398,PER,Pierre Véron
+6448,LOC,Senhora Senhora Rivail
+6448,LOC,Rua Tiquetonne
+6448,LOC,Paris
+6448,LOC,Carimbo
+6450,PER,Amélie
+6452,PER,Girardin
+6454,PER,Laborie
+6454,PER,Quinson
+6454,PER,Girardin
+6454,PER,Quinson
+6454,PER,Laborie
+6455,PER,Laborie
+6455,PER,Girardin
+6456,PER,Quinson
+6457,PER,Girardin
+6460,LOC,Girardin
+
+6463,LOC,Lyon
+6467,PER,Girardin
+6481,PER,Louise
+6484,LOC,Lyon
+6487,PER,Adeus
+6487,PER,Amélie
+6491,PER,Girardin
+6494,PER,Madame Girardin
+6497,PER,Quinson
+6497,LOC,Bourg
+6499,LOC,Paris
+6556,PER,Hyppolite Rivail
+6556,PER,Boudet
+6556,PER,Boudet
+6556,LOC,Château - du - Loir
+6556,LOC,Lyon
+6557,PER,Amélie
+6557,LOC,Lyon
+
+
+6563,PER,Rigolet
+6564,PER,Matteveaux
+6564,LOC,Eaux d ’ Aix
+6564,LOC,Saboia
+6564,LOC,Aix
+6565,PER,Rigolet
+6565,PER,Brunel
+6565,PER,Musset
+6565,PER,Brunel
+6567,PER,Chevalier
+6568,LOC,Lyon
+6571,LOC,Hotel de l ’ Ecu de France
+6571,LOC,rua Lanterne
+6571,LOC,praça des Terreaux
+6590,LOC,Senhora Senhora
+6590,PER,Rivail
+6590,PER,Boudet
+6590,PER,Boudet
+6590,LOC,Château - du - Loir
+6590,LOC,Sarthe
+6591,LOC,Aix - les - Bains
+6592,PER,Amélie
+6595,LOC,Aix
+
+6598,PER,Amélie
+6612,LOC,Senhora Senhora Rivail
+6612,PER,Boudet
+6612,LOC,Château - du - Loir
+6612,LOC,Sarthe
+6612,LOC,Carimbo
+6612,LOC,Paris
+6613,PER,Amélie
+6615,LOC,Tours
+6616,LOC,Paris
+6616,LOC,Paris
+6617,LOC,Tours
+6617,LOC,Paris
+6617,LOC,Paris
+6618,LOC,Paris
+6620,LOC,Cour Batave
+6620,LOC,Rue du Boulay
+6621,LOC,Cour Batave
+6622,PER,Amélie
+6626,PER,Euphrasie
+6633,PER,Amélie
+6659,PER,Senhora Senhora Rivail
+6659,PER,Boudet Pro
+6659,LOC,Château - du - Loir
+6659,LOC,Sarthe
+6659,PER,Amélie
+6663,PER,Crispoul
+6664,PER,Grandins
+6664,PER,Leroux
+6667,LOC,Lesquiller
+6669,PER,Ferran
+6672,PER,Morin
+6677,PER,Vorler
+6680,PER,Éloïse
+6680,LOC,Aix
+6682,PER,Éloïse
+6683,PER,Éloïse
+6688,PER,Lévi
+6692,PER,Amélie
+6737,LOC,Senhora Rivail
+6737,LOC,Rua Mauconseil
+6737,LOC,Paris
+6737,LOC,Carimbo
+6737,LOC,Carimbo
+6738,PER,Maunier
+6739,PER,Maunier
+6742,PER,Gendron
+6742,PER,Maunier
+6745,PER,Adeus
+6759,LOC,Senhora Senhora Rivail
+6759,PER,Boudet
+6759,LOC,Chatêau - du - Loir
+6759,LOC,Sarthe
+6760,PER,Amélie
+
+
+6766,PER,madame Grandmange
+6772,LOC,rua Française
+6775,LOC,al
+
+6776,LOC,rua Saint - Denis
+
+
+6776,PER,Gaimbaud
+
+6785,PER,Bernard
+6785,PER,Adolphe Gatine
+6788,PER,Amélie
+6826,LOC,Bordeaux
+6827,PER,Amélie
+6827,LOC,Gironda
+6827,LOC,B
+
+6830,LOC,Paris
+
+6843,LOC,Nîsmes
+6843,LOC,Toulouse
+6846,PER,Conard
+6848,LOC,Poitiers
+6848,LOC,Del
+
+6849,LOC,Lyon
+6851,PER,Matin
+6852,PER,Ambel
+6852,PER,Didier
+6852,PER,Busseleure
+6852,PER,Delanne
+6852,PER,Flammarion
+6853,PER,Oger
+6853,PER,Canu
+6853,LOC,Le Havre
+6853,PER,Foulon
+6854,LOC,Ambel
+6856,LOC,Levant
+6857,PER,Flammarion
+6857,PER,Lescot
+6858,LOC,Ambel
+6859,PER,Conard
+6860,PER,Baudo
+6862,PER,Cha
+6862,PER,Conard
+6862,PER,Roguet
+6863,LOC,Ir
+6865,PER,Ragou
+6866,PER,Brun
+6866,PER,Demonval
+6867,LOC,Avenida de Ségur
+6869,PER,Dory
+6870,PER,Dory
+6871,LOC,Lyon
+6871,PER,Augier de la Croix Rousse
+6873,PER,Flammarion
+6873,PER,Didier
+6874,PER,Flammarion
+6876,LOC,Helder
+6876,LOC,Bordeaux
+6877,PER,Sabò
+6878,PER,Adeus
+6880,PER,Amélie
+6881,PER,Lerouge
+6882,PER,Marquês de Mirville
+6882,PER,Doyen
+6917,LOC,Mulhouse
+6918,PER,René Caillé
+
+6918,LOC,Mulhouse
+6918,LOC,Quai du Fossé
+6918,LOC,Imprimerie Bader
+6918,LOC,Grand Rue
+6918,LOC,Estrasburgo
+6919,PER,Kardec
+6920,PER,Meu filho
+6921,LOC,Egito
+6921,LOC,Mulhouse
+6922,PER,Delanne
+6925,PER,Demeure
+6925,LOC,Diacon
+6925,LOC,Mulhouse
+6928,LOC,Paris
+
+6930,PER,Demeure
+
+6933,LOC,Desliens
+
+
+6941,PER,Demeure
+6967,LOC,Sol
+6967,LOC,Sol
+6967,LOC,Terra
+6970,LOC,Sol
+6972,LOC,Sol
+6973,LOC,g
+
+6974,LOC,mont
+6976,LOC,Sol
+6979,LOC,Sol
+6979,LOC,Sol
+6981,LOC,Terra
+6984,LOC,solo
+6985,PER,Galileu
+7004,PER,Senhor Flammarion
+
+7005,LOC,Marte
+7005,LOC,Terra
+7005,LOC,Sol
+7005,LOC,Marte
+7006,LOC,Terra
+7007,LOC,Terra
+7009,LOC,Equador
+7012,PER,Galileu
+7027,LOC,Paris
+7027,PER,Béguet
+7027,PER,Sic de Lyon
+7027,LOC,Paris
+7028,PER,Villon
+7029,LOC,Paris
+7032,PER,Meu Deus
+7033,PER,Villon
+7033,PER,Kardec
+7035,PER,Prossig
+7037,PER,Pai
+7038,PER,Que
+
+7041,PER,Villon
+
+
+7066,PER,Jesus da Galileia
+7068,PER,Cristo
+
+7071,PER,Deus C
+7073,PER,Altíssimo
+
+
+7078,PER,Galileu
+7079,PER,Isaías
+7079,PER,Lamennais
+7079,PER,Weber
+7079,PER,Michelangelo
+
+7086,PER,Cristo
+
+
+7097,PER,Erasto
+7131,PER,Senhora Chles Breul
+7134,PER,filósofo
+7154,PER,Ser
+
+7156,PER,Protetor
+7181,PER,Eug
+7182,LOC,Paris
+7182,PER,Santo Agostinho
+
+7192,PER,George
+
+7198,PER,Caim
+
+
+7203,PER,Ele
+
+7231,PER,Senhora Costel
+7236,LOC,Céu
+7236,LOC,Paraíso
+7238,PER,Criador
+
+
+7248,PER,Jean Reynaud
+7267,LOC,Aix
+7267,PER,Petin
+
+
+7273,PER,Ami
+7276,PER,Ser
+
+7284,PER,Adeus
+
+7293,PER,Adeus
+7294,PER,Jules
+7318,LOC,Paris
+7318,PER,Cazemajour
+7318,PER,Proudhon
+
+
+7326,PER,Sim
+7328,PER,Villiaumé
+
+7330,PER,Reynaud
+7332,LOC,Terra
+
+7334,PER,Reynaud
+
+7335,PER,Dessirier
+7336,PER,Dessirier
+7342,PER,Proudhon
+7374,PER,Morin
+7374,LOC,Paris
+
+
+
+
+
+
+
+7386,PER,Cristo
+7387,PER,Ebelmaune
+7401,PER,Senhora Costel
+
+
+
+
+
+
+7452,PER,Pedro
+7452,PER,Paulo
+
+7473,PER,Martin
+7474,PER,Martin
+7476,PER,Martin
+
+
+
+7478,PER,Presidente
+7480,PER,Continue
+7480,PER,Martin
+7482,PER,Presidente
+
+
+
+
+
+
+
+7499,PER,Martin
+7499,PER,Martin
+7499,PER,Presidente
+7500,PER,Martin
+
+7536,LOC,Ca
+
+
+7539,LOC,Terra
+7542,PER,Proudhon
+7542,PER,Proudhon
+
+
+7547,PER,Proudhon
+
+7562,PER,Proudhon
+
+7566,LOC,Terra
+
+7571,PER,Vocês
+
+
+
+7584,PER,Cristo
+7584,PER,Eterno
+7584,PER,Proudhon
+7616,LOC,Ca
+
+7616,PER,Lafâge
+7616,LOC,Tarbes
+7616,PER,Carrère
+7616,PER,Jean Carrère
+7616,LOC,Prefeitura de Hautes Pyrénées
+7616,LOC,Tarbes
+7616,PER,Lafage
+7619,PER,Ali
+
+7625,LOC,Prefeitura
+7626,PER,Claro
+7630,PER,Adeus
+7631,LOC,Carrère
+7662,PER,Senhora Costel
+
+
+7679,PER,Lázaro
+7696,LOC,Montreuil - sur - Mer
+
+7698,PER,Cristo
+7698,PER,Cristo
+
+
+7702,PER,Cristo
+7704,LOC,Sede grandes
+
+7709,PER,Maria Hurtrel
+7709,PER,Médium Cabry
+7723,LOC,Bordeaux
+7723,PER,Rubio
+7723,PER,Sabò
+
+
+
+
+
+
+
+
+7764,PER,Cristo
+
+
+7768,PER,Cristo
+
+
+7774,PER,Criador
+7775,PER,Santo Agostinho
+7802,LOC,Paris
+7802,PER,Senhora Senhora Rivail
+7802,PER,Boudet
+7802,LOC,Château - du - Loir
+7802,LOC,Château - du - Loir
+7802,LOC,Paris
+7803,PER,Amélie
+7803,LOC,Paris
+7811,PER,Félicité
+7825,LOC,Senhora Rivail
+7825,LOC,Rua Mauconseil
+7825,LOC,Paris
+7825,LOC,Carimbo
+7825,LOC,Carimbo
+7826,PER,Amélie
+7829,PER,Lelong
+7830,PER,Martel
+7830,PER,Parvys
+7831,PER,Gourry
+7832,LOC,Bordeaux
+7832,PER,Musset
+7833,PER,Parvi
+7836,LOC,Montabon
+7838,PER,Gastin
+7838,PER,Louise
+7840,PER,Louise
+7842,PER,Louise
+7844,LOC,casa
+7845,PER,Stéphanie
+7846,LOC,Tours
+7846,PER,Caroline
+7847,PER,Cotton Breuil
+7848,PER,Teu pai
+7876,LOC,Senhora Rivail
+7876,LOC,Rua Mauconseil
+7876,LOC,Paris
+7876,LOC,Carimbo
+7876,LOC,Carimbo
+7877,PER,Amélie
+7878,PER,Vallot
+7879,PER,Louise
+7881,PER,Vallot
+7882,PER,Parvis
+7885,PER,Courcy
+7888,LOC,flores
+7891,PER,Deloizé
+7891,PER,Bretonneau
+7891,LOC,Tours
+7891,LOC,Épeigné
+7893,PER,Savonnières
+7893,PER,Stephanie
+7894,LOC,Paris
+7894,LOC,rua Taranne
+7895,PER,Musset
+7897,PER,Belgarde
+7898,PER,Desportes
+7904,PER,Adeus
+
+7906,LOC,Paris
+7913,LOC,Rua de Richelieu
+
+7950,LOC,Senhora Rivail Rua Mauconseil
+7950,LOC,Paris
+7950,LOC,Carimbo
+7950,LOC,Carimbo
+7957,PER,Gastine
+7962,LOC,Château - du - Loir
+7963,LOC,Le Mans
+
+7970,PER,Potier
+7990,PER,Amélie
+7990,LOC,Amb
+
+7990,PER,Canu
+7990,PER,Costeau
+7991,LOC,V
+
+7992,PER,Prévent
+
+7995,PER,Erasto
+7995,LOC,Amb
+
+7995,PER,Judith
+8003,LOC,Notre Dame des Flots Nossa Senhora das Ondas
+8006,LOC,mar ex
+8007,PER,Rodier
+8010,PER,Amélie
+8011,PER,Costeau
+8038,PER,Kardec
+
+8043,LOC,al
+
+8056,PER,Prioux
+8057,LOC,Paris
+
+8063,LOC,Senhora Rivail
+8063,LOC,Rua Mauconseil
+8063,LOC,Paris
+8063,LOC,Château - du - Loir
+8064,PER,Amélie
+8064,PER,Lelony
+8065,LOC,Le Havre
+8065,LOC,Segier
+8065,LOC,B
+
+8066,PER,Gastier
+8066,LOC,Forges
+8066,PER,Gastier
+8068,PER,Louise
+8069,PER,Musset
+8070,LOC,Savonnières
+8070,LOC,Jour
+
+8072,PER,Martel
+8072,LOC,Bordeaux
+8072,PER,Flavie
+8073,PER,Marie Lapoterie
+8073,PER,Lebrun
+8073,PER,Marie
+8073,LOC,Latouche
+
+
+
+8084,LOC,Páscoa
+8085,PER,Louise
+8086,LOC,Me
+8087,LOC,Mon
+
+8088,PER,Gostar
+8114,LOC,Senhora Senhora Rivail
+8114,LOC,Rua Mauconseil
+8114,LOC,Paris
+8114,LOC,Carimbo
+8114,LOC,Carimbo
+8115,PER,Marie
+8115,PER,Madeleine
+8121,LOC,São João
+
+
+8124,PER,Madame Gauthier
+8124,PER,Darie
+8126,LOC,Martinica
+8129,PER,Louise
+
+
+
+8147,LOC,Paris
+8147,PER,Béguet
+
+8161,PER,Voltaire
+8176,LOC,Paris
+8176,PER,Béguet Pude
+
+
+
+
+8194,PER,Voltaire
+8220,PER,Ledoyen
+8220,LOC,Galerie d ’ Orléans
+8220,LOC,Palácio Real
+8225,PER,Senhorita Huet
+8225,PER,Senhorita Huet
+8230,LOC,Au
+
+8231,PER,Aumont
+8231,LOC,Boulevard de Strasbourg
+8234,PER,de la Roche
+8235,LOC,Senhor
+8235,PER,de la Roche
+8235,LOC,rua Olivier
+8238,PER,Senhor P
+8239,LOC,rua Neuve - des - Petits - Champs
+8240,PER,Ledoyen
+8240,PER,Sauton
+8247,LOC,Port
+8247,LOC,Laud
+8248,LOC,Rua Neuve Bréda
+8251,PER,Dubois
+8254,PER,Forbes
+
+8267,LOC,Lyon
+8270,LOC,Ace
+8272,PER,Auguste Paul
+8272,PER,Ledoyen
+8273,PER,Ledoyen
+8274,LOC,Paris
+8274,LOC,Itália
+8276,LOC,Ace
+8278,PER,Pierre Dubois
+
+8292,LOC,rua Ste Anne
+8292,LOC,Passage Ste Anne
+8293,LOC,Provence
+
+8295,PER,Presidente
+8297,LOC,Huet
+8298,PER,Senhorita
+8306,PER,Solichan
+8307,PER,Stéphanie
+8308,LOC,Ace
+8310,PER,Golovine
+8310,LOC,Russia
+8311,PER,Vuillemoz
+8311,LOC,rua Saint - Honoré
+8312,LOC,I
+8313,PER,Bou
+
+
+8313,LOC,rua Cadet
+8314,LOC,I
+8315,PER,Bataille
+8315,LOC,rua Guénégaud
+8422,PER,Chedeaux
+
+8451,PER,Chedeaux
+
+
+8474,LOC,Terra
+8502,LOC,Amb
+
+
+
+8509,PER,Cristo
+8512,PER,Erasto
+8524,LOC,Paris
+8525,LOC,Châlons
+8525,PER,Jacob
+8525,LOC,Versalhes
+
+8531,PER,Jacob
+
+8536,LOC,Part
+8557,PER,Marechal Vaillans
+8557,LOC,Belas Artes
+8558,PER,Sua
+8558,PER,Monvoisin
+8558,PER,Sua
+8559,PER,Soberano
+8559,PER,Monvoisin
+8561,PER,HLD Rivail
+8562,LOC,Paris
+8563,LOC,Rua Sainte Anne
+8574,LOC,Casa do Imperador e das Belas Artes
+8575,LOC,Belas Artes
+8576,LOC,Palácio das Tulherias
+8577,LOC,Casa do Imperador e das Belas Artes
+8577,PER,Monvoisin
+8577,LOC,Superintendência das Belas Artes
+8580,LOC,Belas Artes
+8581,LOC,Belas Artes
+8584,PER,Rivail
+8596,PER,Roustaing
+8596,PER,Agostin
+
+
+
+
+8604,PER,Cristo
+
+8612,PER,Todo
+
+
+8618,PER,Agostinho
+8642,PER,Jesus
+
+8649,LOC,canal
+
+8652,PER,Jesus
+8654,PER,Jesus
+8655,LOC,Salvador
+8657,PER,Lázaro
+8675,LOC,Senhor
+8675,PER,Che
+
+8676,PER,Espíritos
+
+
+
+8685,PER,homem
+
+
+8730,LOC,Chedeaux
+
+8754,LOC,Chedeaux
+
+8767,PER,Criador
+8788,PER,Senhorita Chedeaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8872,LOC,Che
+
+8872,LOC,Medi
+8873,LOC,Estado
+
+
+
+
+
+
+
+
+
+
+8904,LOC,Chedeaux
+8906,LOC,c
+
+
+
+
+
+
+8947,PER,Chedeaux
+
+
+
+
+
+
+
+8980,LOC,Terra
+8983,LOC,Terra
+9002,LOC,Bordeaux
+
+9003,PER,Bon
+9003,PER,Landers
+
+
+9004,LOC,Províncias Unidas
+
+
+9006,LOC,Potomac
+9006,LOC,Mississippi
+
+9010,PER,Washington
+9015,LOC,América
+
+
+9021,LOC,América
+9023,PER,Jesus Cristo
+
+9024,PER,Pai
+9050,PER,Rul
+9050,PER,Rachel Sim
+
+
+
+9063,PER,Cor
+9063,PER,Rainha
+9064,LOC,Salvador do Mundo
+9067,PER,Rachel
